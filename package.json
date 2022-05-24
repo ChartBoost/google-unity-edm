@@ -1,8 +1,8 @@
 {
-  "name": "com.chartboost.google.edm",
+  "name": "com.chartboost.edm",
   "version": "1.2.171",
   "displayName": "External Dependency Manager for Unity",
-  "description": "The External Dependency Manager for Unity (EDM4U) (formerly Play Services Resolver / Jar Resolver), built by Google.",
+  "description": "The External Dependency Manager for Unity (EDM4U) (formerly Play Services Resolver / Jar Resolver), built by Google but made into a Unity Package Manager package here.",
   "unity": "2019.4",
   "unityRelease": "34f1",
   "documentationUrl": "https://github.com/googlesamples/unity-jar-resolver/blob/v1.2.171/README.md",
