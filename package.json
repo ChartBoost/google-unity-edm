@@ -11,9 +11,18 @@
   "dependencies": {},
   "samples": [],
   "keywords": [],
-  "author": {
-    "name": "Chartboost",
-    "email": "sales@chartboost.com",
-    "url": "https://www.chartboost.com"
-  }
+  "author": "Chartboost <sales@chartboost.com> (https://www.chartboost.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChartBoost/google-unity-edm.git"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ChartBoost/google-unity-edm/issues"
+  },
+  "homepage": "https://github.com/ChartBoost/google-unity-edm#readme"
 }
